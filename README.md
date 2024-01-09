@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Thom Massin, and I'm a 2nd Year student at Epitech Nantes.
 
 <!--
 **ThomMASSIN/ThomMASSIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
